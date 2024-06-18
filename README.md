@@ -36,5 +36,5 @@ php -S localhost:8000
 
 ## Avtor
 - David Gole
-- Email: `[](mailto:2002.gole@gmail.com)`
-- GitHub: `[davidgole](https://github.com/davidgole)`
+- Email: [2002.gole@gmail.com](mailto:2002.gole@gmail.com)
+- GitHub: [davidgole](https://github.com/davidgole)
